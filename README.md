@@ -36,7 +36,7 @@ This project aims to predict house prices using machine learning techniques in P
    * Consider using scatter plots or residual plots to identify patterns or outliers.
 4. Model Selection and Refinement
  * Choose the best model:
-   * Select the model with the best performance based on the evaluation metrics.
+   * Selected the model with the best performance based on the evaluation metrics.
  * Fine-tune hyperparameters:
    * Experiment with different values of the regularization parameter (alpha) for Lasso and Ridge regression to potentially improve performance.
    * Consider using techniques like cross-validation to find the optimal hyperparameter values.
